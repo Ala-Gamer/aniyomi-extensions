@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.animeextension.en.hanime
+package eu.kanade.tachiyomi.animeextension.ar.WitAnime
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
