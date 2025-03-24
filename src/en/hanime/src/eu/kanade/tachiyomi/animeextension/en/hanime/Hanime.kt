@@ -31,11 +31,11 @@ import java.util.Locale
 
 class Hanime : ConfigurableAnimeSource, AnimeHttpSource() {
 
-    override val name = "hanime.tv"
+    override val name = "WitAnime"
 
-    override val baseUrl = "https://hanime.tv"
+    override val baseUrl = "https://witanime.cyou"
 
-    override val lang = "en"
+    override val lang = "ar"
 
     override val supportsLatest = true
 
